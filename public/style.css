@@ -61,7 +61,7 @@ body {
 .main_section {
     margin: 0 80px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
 }
 
 .product_name {
